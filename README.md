@@ -6,3 +6,13 @@
 [Lien de l'userscript tampermonkey](https://dl.dropboxusercontent.com/s/e1v2j8027ryd4td/overlay.user.js)
 # Prérequis
 [Tampermonkey Google Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=fr)
+# Bugs ou proposition
+Me contacter: Macadelic#9245 sur discord
+
+# À venir
+- Ajouts des longs
+- Mise à jour de l'autocompletion des pseudos dans le chat
+- Ajout de l'autocompletion des pseudos sur les autres jeux jklm
+- Changement du design du tableau des statistiques en jeu
+- Autres options
+- Ajout d'un système de notification
