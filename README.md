@@ -10,10 +10,8 @@
 Me contacter: Macadelic#9245 sur discord
 
 # À venir
-- Ajouts des longs
 - Mise à jour de l'autocompletion des pseudos dans le chat
 - Ajout de l'autocompletion des pseudos sur les autres jeux jklm
 - Changement du design du tableau des statistiques en jeu
 - Autres options
 - Ajout d'un système de notification
-- Support fond d'ecran fichier local
