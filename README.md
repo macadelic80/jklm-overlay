@@ -16,3 +16,4 @@ Me contacter: Macadelic#9245 sur discord
 - Changement du design du tableau des statistiques en jeu
 - Autres options
 - Ajout d'un système de notification
+- Support fond d'ecran fichier local
