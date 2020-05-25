@@ -20,5 +20,5 @@ Me contacter: Macadelic#9245 sur discord
 - Notification en cas de @ping
 - Changer le focus (Quand on selectionne quelque chose dans le chat et que c'est à un nouveau joueur de jouer, le focus nous fait perdre la selection)
 - ajouter liste de fond d'écran / théme
-- ajouter set de theme {photo, couleurs ensemble, et sauvegarde}
+- ajouter set de theme {fond d'écran, couleurs, et sauvegarde des listes}
 - ajout exportation et importation des configurations
