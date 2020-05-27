@@ -28,4 +28,6 @@ Me contacter: Macadelic#9245 sur discord
 ![Preview sidebar!](https://github.com/macadelic80/jklm-overlay/blob/master/preview6.png)
 ![Preview sidebar!](https://github.com/macadelic80/jklm-overlay/blob/master/preview7.png)
 ![Preview sidebar!](https://github.com/macadelic80/jklm-overlay/blob/master/preview8.png)
+![Preview sidebar!](https://github.com/macadelic80/jklm-overlay/blob/master/preview9.png)
+![Preview sidebar!](https://github.com/macadelic80/jklm-overlay/blob/master/preview10.png)
 
