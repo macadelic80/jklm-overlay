@@ -66,8 +66,6 @@
 [Lien de l'userscript tampermonkey](https://dl.dropboxusercontent.com/s/v3firjmj11ivybg/overlay_alpha.user.js)
 ## Prérequis
 [Tampermonkey Google Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=fr)
-## Bugs ou proposition
-Me contacter: Macadelic#9245 sur discord
 
 ## À venir
 - Mise à jour de l'autocompletion des pseudos dans le chat
