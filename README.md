@@ -84,16 +84,8 @@
 
   **List of shortcuts**
 
-   
 
   - List of all shortcuts added to the overlay
-
- 
-
-### Bot tab
-
-  A long time ago this tab contained the list of all in game public bot links
-
   
 
 ### Shortcuts
@@ -101,6 +93,11 @@
   - `Delete (Suppr.)`: lose one life
 
   - `Alt + Delete (Suppr.)`: lose all lives
+
+
+### Bot tab
+
+  A long time ago this tab contained the list of all in game public bot links
 
  
 
